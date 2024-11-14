@@ -34,11 +34,11 @@
 
 ### Решение 1
 
-#####Suricata
+Suricata
 
 ![Задание 1](https://github.com/Markin-AI/13-3/blob/main/img/1-1.png)
 
-#####Fail2Ban
+Fail2Ban
 
 ![Задание 1](https://github.com/Markin-AI/13-3/blob/main/img/1-2.png)
 
@@ -75,12 +75,14 @@ Suricata записала в лог работу nmap, а Fail2Ban никак н
 
 ### Решение 2
 
-#####Suricata
+Suricata
 
 ![Задание 2](https://github.com/Markin-AI/13-3/blob/main/img/2-1.png)
 
-######Fail2Ban
+Fail2Ban
 
 ![Задание 2](https://github.com/Markin-AI/13-3/blob/main/img/2-2.png)
+
+В этот раз и Suricata и Fail2Ban отобразили работу в своих логах, а так же Fail2Ban заблокировал угрозу.
 
 ---
